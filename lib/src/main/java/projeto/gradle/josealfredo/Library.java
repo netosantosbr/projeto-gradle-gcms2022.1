@@ -5,7 +5,6 @@ package projeto.gradle.josealfredo;
 
 public class Library {
     public boolean someLibraryMethod() {
-        return true;
-        
+        return false;
     }
 }
